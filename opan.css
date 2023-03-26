@@ -1,0 +1,87 @@
+/*Cabeçalho*/
+
+#bb{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New';
+    display: inline-block;
+    margin-top: 0%;
+    margin-bottom: 10px;
+
+}
+
+#img{
+    image-resolution: 50px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+}
+
+/*Links Cabeçalho*/
+
+.link:hover{
+    background-color: rgba(250, 221, 166, 0.712);
+    font-family: 'Times New Roman';
+}
+
+.link{
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+
+nav ul li a{
+    color: #000;
+    text-decoration: none;
+    list-style: none;
+}
+
+ul{
+    text-align: center;
+    padding: 5;
+}
+
+/*Conteúdo Site*/
+
+body{
+    background-color:wheat;
+ }
+
+.center{
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 0%;
+}
+
+#ct{
+    margin-top: 0%;
+}
+.hju{
+    margin-top: 0;
+}
+
+/*Rodapé*/
+
+footer{
+    text-align: center;
+    color: rgb(5, 95, 65);
+    border-top: 2px solid rgb(5,95,65);
+    background-color: rgba(165, 166, 167, 0.575);
+}
+
+#footer-img{
+    margin-top:10px;
+    margin-bottom: none;
+}
+
+#copy{
+    margin-bottom: 0%;
+    margin-top: 10px;
+    font-style: italic;
+    font-family: helvetica;
+}
+
+#fy{
+    font-family: apple-system ;
+    border-bottom: 25px;
+}
